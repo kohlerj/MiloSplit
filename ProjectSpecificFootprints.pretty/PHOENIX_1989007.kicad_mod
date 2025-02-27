@@ -267,4 +267,15 @@
 		(solder_mask_margin 0.102)
 		(uuid "d3931045-60e9-4a27-ba24-bf0239292c3d")
 	)
+	(model "${KIPRJMOD}/ProjectSpecificFootprints.pretty/1989007.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )
