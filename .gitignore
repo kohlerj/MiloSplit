@@ -1,0 +1,60 @@
+.DS_Store
+
+# KiCad temporary and backup files
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.sch-bak
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.kicad_prl
+*.s#?
+*.d#?
+*.lck
+autosave-*
+
+# KiCad cache files
+*.kicad_pcb-bak
+*-cache.lib
+*-cache.kicad_sch
+fp-info-cache
+
+# Simulation and build output files
+*.cir
+*.net
+*.out
+*.log
+*.raw
+*.opj
+*.xsl
+*.step
+*.iges
+
+# Gerber and manufacturing files
+*.gbr
+*.gbl
+*.gtl
+*.gts
+*.gto
+*.gbs
+*.gbp
+*.gm*
+*.drl
+*.gbo
+*.gko
+*.map
+*.pos
+*.rpt
+*.csv
+*.zip
+
+# KiCad's 3D model previews
+*.wrl
+*.step
+*.iges
+
+# User-specific settings
+*.pro
+*.kicad_prl
+*.config
+
